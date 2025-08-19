@@ -17,4 +17,11 @@
           
 </div><br>
 
+<div> 
+  <a href = "mailto:joaovictorrfcontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "https://api.whatsapp.com/send?phone=31986055677"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="www.linkedin.com/in/joãovictorrodriguesferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+
 Sempre tentando melhorar! 
