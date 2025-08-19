@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o João Victor 💻
+### Hi! I'm João Victor 💻
 
 - 🔭  I’m a Software Engineering student
 - 🌱 I’m currently learning PHP, C#, .NET
