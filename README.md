@@ -2,7 +2,7 @@
 ### Hi! I'm João Victor 💻
 
 - 🔭  I’m a Software Engineering student
-- 🌱 I’m currently learning PHP, C#, .NET
+- 🌱 I’m currently learning Python, APIs, Golang
 
 
 [![João Github stats](https://github-readme-stats.vercel.app/api?username=joaovrf13&show_icons=true&theme=dark)](https://github.com/joaovrf13/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovrf13&layout=compact&theme=dark)](https://github.com/joaovrf13/github-readme-stats)
