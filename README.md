@@ -19,7 +19,7 @@
 <img align="center" alt="Github" height="30" width="40" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor">
 <img align="center" alt="NodeJS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
 <img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
-<img align = "right" alt="Gif" src ="[https://usagif.com/wp-content/uploads/2021/03/bike-emoji-19.gif](https://tenor.com/pt-BR/view/cat-jaozin-hi-jaozin-hi-car-gif-2426213505921922630)">
+<img align = "right" alt="Gif" src ="https://tenor.com/pt-BR/view/cat-jaozin-hi-jaozin-hi-car-gif-2426213505921922630">
           
 </div><br>
 
