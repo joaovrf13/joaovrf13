@@ -1,32 +1,17 @@
 
-### Hi! I'm João Victor 💻
+### Hi! I'm João Victor <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 
 - 🔭  I’m a Software Engineering student
-- 🌱 I’m currently learning Python, APIs, Golang
+- 🌱 I’m currently learning PHP and LARAVEL
 
 
-[![João Github stats](https://github-readme-stats.vercel.app/api?username=joaovrf13&show_icons=true&theme=dark)](https://github.com/joaovrf13/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovrf13&layout=compact&theme=dark)](https://github.com/joaovrf13/github-readme-stats)
+![João Github stats](https://github-readme-stats-fast.vercel.app/api?username=joaovrf13&show_icons=true&theme=tokyonight)
 
-## Technologies Used 
-<div style="display: inline_block"><br/>
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /><img 
-          
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">                  
-<img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img align="center" alt="JavaScript" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
-<img align="center" alt="Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-<img align="center" alt="Github" height="30" width="40" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor">
-<img align="center" alt="NodeJS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
-<img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
-<img align = "right" alt="Gif" src ="https://media.tenor.com/92MplgQwb80AAAAM/cat-meme-wave-emoji.gif">
+![Top Languages](https://vani-stats.vercel.app/api?username=joaovrf13&theme=tokyonight)
+
+##  Tech I work on
+[![My Skills](https://skillicons.dev/icons?i=php,python,mysql,sqlite,git,linux)](https://skillicons.dev)
+
           
 </div><br>
 
-<div> 
-<a href="https://mail.google.com/mail/?view=cm&to=joaovictorrfcontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-rodrigues-ferreira-b31795287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-
-Sempre tentando melhorar! 
