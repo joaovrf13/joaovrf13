@@ -10,7 +10,7 @@
 ![Top Languages](https://vani-stats.vercel.app/api?username=joaovrf13&theme=tokyonight)
 
 ##  Tech I work on
-[![My Skills](https://skillicons.dev/icons?i=php,python,mysql,sqlite,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,python,mysql,sqlite,git,linux)](https://skillicons.dev)
 
           
 </div><br>
